@@ -1,0 +1,9 @@
+{
+    "user_id": 42,
+    "username": "mario.rossi",
+    "email": "mario@example.com",
+    "roles": [
+        "user",
+        "admin"
+    ]
+}
